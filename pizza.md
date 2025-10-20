@@ -1,2 +1,2 @@
-Local Tomatoes
+Tomatoes
 Cheese
